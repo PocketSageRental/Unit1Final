@@ -1,0 +1,22 @@
+
+newmtl Standard4EB53F
+Kd  0.3058824 0.7098039 0.2470588
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard7C663F
+Kd  0.4862745 0.4 0.2470588
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
